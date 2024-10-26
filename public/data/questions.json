@@ -164,17 +164,6 @@
       "options": ["undefined", "object", "NaN", "number"],
       "correctOption": 3,
       "points": 5
-    },
-    {
-      "question": "Which of the following methods can be used to add an event listener in JavaScript?",
-      "options": [
-        "addEventListener()",
-        "onClick()",
-        "attachEvent()",
-        "Both addEventListener() and attachEvent()"
-      ],
-      "correctOption": 0,
-      "points": 5
     }
   ]
 }
