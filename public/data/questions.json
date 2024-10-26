@@ -175,45 +175,6 @@
       ],
       "correctOption": 0,
       "points": 5
-    },
-    {
-      "question": "Which of these is a valid way to create an array in JavaScript?",
-      "options": [
-        "const arr = []",
-        "const arr = new Array()",
-        "const arr = Array()",
-        "Both A and B"
-      ],
-      "correctOption": 3,
-      "points": 5
-    },
-    {
-      "question": "What will be the output of 'console.log(1 + '1')' in JavaScript?",
-      "options": ["2", "'11'", "'1'", "Error"],
-      "correctOption": 1,
-      "points": 5
-    },
-    {
-      "question": "What is the purpose of the 'this' keyword in JavaScript?",
-      "options": [
-        "To refer to the global object",
-        "To refer to the function that is currently executing",
-        "To refer to the object that is currently being executed",
-        "All of the above"
-      ],
-      "correctOption": 2,
-      "points": 5
-    },
-    {
-      "question": "What does the array method 'map()' do?",
-      "options": [
-        "Adds an element to the array",
-        "Transforms each element of the array and returns a new array",
-        "Filters elements of the array",
-        "None of the above"
-      ],
-      "correctOption": 1,
-      "points": 5
     }
   ]
 }
